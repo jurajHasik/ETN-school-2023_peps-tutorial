@@ -1,4 +1,7 @@
-# ETN school 2023 - PEPS tutorial
+# ETN school 2023 - PEPS lectures and tutorial
+
+(infinite) projected entagled-pair states and algorithms for European Tensor Network school 2023 (https://nextcloud.tfk.ph.tum.de/etn/index.php/schools/2023-school/)
+
 
 Notes
 -----
